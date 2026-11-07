@@ -1,6 +1,6 @@
 [project]
 name = "ukkonen-substring-index"
-version = "0.1.1"
+version = "0.1.2"
 description = "Online suffix tree builder achieving O(n) construction time and O(m) substring lookup."
 requires-python = ">=3.10"
 dependencies = []
